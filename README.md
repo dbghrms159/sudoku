@@ -14,3 +14,7 @@ linux os 에서  c 를 사용하여 제작한 스도쿠
 력을 해주는 프로그램이다.
 
 #  result 
+row 검사 결과</br>
+![image](https://user-images.githubusercontent.com/38156821/50040139-28fd9780-0081-11e9-8ffd-40cde8bbd4ac.png)
+<br>col 검사 결과</br>
+![image](https://user-images.githubusercontent.com/38156821/50040140-2a2ec480-0081-11e9-9372-460f406ecbd5.png)
